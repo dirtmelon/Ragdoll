@@ -8,10 +8,10 @@
 
 猫咪：养了4只吞金兽-布偶猫，每个猫咪都有 CFA 证书，有些猫咪小时候拿过比赛大奖，赛级布偶。
 
-	- Bella 是一只波斯系蓝双布偶，妹妹
-	- Simba 是一只海双布偶，弟弟
-	- PiPi 是一只海双布偶，弟弟
-	- 碎星 是一只海双布偶，妹妹
+- Bella 是一只波斯系蓝双布偶，妹妹
+- Simba 是一只海双布偶，弟弟
+- PiPi 是一只海双布偶，弟弟
+- 碎星 是一只海双布偶，妹妹
 
 环境：家里一周一次紫外臭氧灯消毒
 
@@ -21,39 +21,45 @@
 
 
 
+
+
 ## 猫咪
 
 PiPi：
 
-![](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/PiPi/ImportVideo_365265.114096.MOV)
+<video src="./assets/PiPi/ImportVideo_365265.114096.MOV" width="500px" />
 
 
 
 碎星：
 
-![](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/SuiXing/IMG_1252.JPG)
+<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/SuiXing/IMG_1252.JPG" width="500">
 
 Bella：
 
-![](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Bella/IMG_4326.JPG)
+
+
+<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Bella/IMG_4326.JPG" width="500">
 
 
 
 Simba：
 
-![](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Simba/IMG_0959.JPG)
+<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Simba/IMG_0959.JPG" width="500">
 
 小猫：
 
-![](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Baby/IMG_6879.JPG)
+<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Baby/IMG_6879.JPG" width="500">
 
-![](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Baby/IMG_6748.JPG)
+<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Baby/IMG_6748.JPG" width="500">
 
 
 
 更多：
 
-其他更多的猫咪的美照，可以访问[这里](./assets)
+其他更多的猫咪的美照，可以访问[这里](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets)
+
+
 
 
 
@@ -65,4 +71,4 @@ Simba：
 
 如果打算养一只可爱、高颜值的布偶猫
 
-可以联系联系我，我的微信：704568245
+可以联系我微信：704568245
