@@ -27,13 +27,13 @@
 
 <h5 style="text-align:center;">PiPi：</h5>
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/PiPi/PiPi.gif" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mn6.gif" width="500">
 
 
 
 <h5 style="text-align:center;">碎星：</h5>
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/SuiXing/IMG_1252.JPG" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mn7.JPG" width="500">
 
 
 
@@ -51,10 +51,10 @@
 
 <h5 style="text-align:center;">小猫：</h5>
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Baby/IMG_6879.JPG" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mn8.JPG" width="500">
 
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Baby/IMG_6748.JPG" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mn9.JPG" width="500">
 
 
 
