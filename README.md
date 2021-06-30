@@ -41,7 +41,11 @@
 
 <img src="https://i.niupic.com/images/2021/06/30/9mnZ.JPG" width="500">
 
+<img src="https://i.niupic.com/images/2021/06/30/9mqS.JPG" width="500">
 
+<img src="https://i.niupic.com/images/2021/06/30/9mqU.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqT.JPG" width="500">
 
 <h5 style="text-align:center;">Simba：</h5>
 
@@ -53,14 +57,19 @@
 
 <img src="https://i.niupic.com/images/2021/06/30/9mn8.JPG" width="500">
 
-
 <img src="https://i.niupic.com/images/2021/06/30/9mn9.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqV.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqW.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqX.JPG" width="500">
 
 
 
 更多：
 
-其他更多的猫咪的美照，可以访问[这里](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets)
+其他更多的猫咪的美照，可以访问[这里](https://github.com/FantasticLBP/Ragdoll/tree/main/assets)
 
 
 
@@ -68,9 +77,9 @@
 
 ## 交流
 
-如果你是一名铲屎官，想进群晒猫、交流猫咪养护
+如果你是一名铲屎官，想进群晒猫或者是交流猫咪养护经验
 
-如果想云吸猫
+如果没有养猫，想云吸猫
 
 如果打算养一只可爱、高颜值的布偶猫
 
