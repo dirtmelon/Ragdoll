@@ -60,7 +60,7 @@
 
 更多：
 
-其他更多的猫咪的美照，可以访问[这里](https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets)
+其他更多的猫咪的美照，可以访问[这里](./assets)
 
 
 
