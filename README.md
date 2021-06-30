@@ -39,13 +39,13 @@
 
 <h5 style="text-align:center;">Bella：</h5>
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Bella/IMG_4326.JPG" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mnZ.JPG" width="500">
 
 
 
 <h5 style="text-align:center;">Simba：</h5>
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Simba/IMG_0959.JPG" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mo0.JPG" width="500">
 
 
 
