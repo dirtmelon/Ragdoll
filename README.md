@@ -1,6 +1,8 @@
-# 写代码的铲屎官
+# 猫咪知识合集
 
+> 主要记录猫咪饮食、吃饭、健康、玩具、洗护、社会化等方面的经验和心得，还有一部分晒猫的原因。
 
+ 
 
 ## 基础信息
 
@@ -39,13 +41,17 @@
 
 <h5 style="text-align:center;">Bella：</h5>
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Bella/IMG_4326.JPG" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mnZ.JPG" width="500">
 
+<img src="https://i.niupic.com/images/2021/06/30/9mqS.JPG" width="500">
 
+<img src="https://i.niupic.com/images/2021/06/30/9mqU.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqT.JPG" width="500">
 
 <h5 style="text-align:center;">Simba：</h5>
 
-<img src="https://raw.githubusercontent.com/FantasticLBP/Ragdoll/master/assets/Simba/IMG_0959.JPG" width="500">
+<img src="https://i.niupic.com/images/2021/06/30/9mo0.JPG" width="500">
 
 
 
@@ -53,13 +59,17 @@
 
 <img src="https://i.niupic.com/images/2021/06/30/9mn8.JPG" width="500">
 
-
 <img src="https://i.niupic.com/images/2021/06/30/9mn9.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqV.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqW.JPG" width="500">
+
+<img src="https://i.niupic.com/images/2021/06/30/9mqX.JPG" width="500">
 
 
 
 更多：
-
 其他更多的猫咪的美照，可以访问[这里](./assets)
 
 
@@ -68,10 +78,22 @@
 
 ## 交流
 
-如果你是一名铲屎官，想进群晒猫、交流猫咪养护
+如果你是一名铲屎官，想进群晒猫或者是交流猫咪养护经验
 
-如果想云吸猫
+如果没有养猫，想云吸猫
 
 如果打算养一只可爱、高颜值的布偶猫
 
 可以联系我微信：704568245
+
+
+
+## 目录
+
+  * ["CFA 证书" 不再那么神秘](https://github.com/FantasticLBP/Ragdoll/blob/main/article/1.md)
+  * [猫咪饮食](https://github.com/FantasticLBP/Ragdoll/blob/main/article/2.md)
+  * [养猫心得与总结](https://github.com/FantasticLBP/Ragdoll/blob/main/article/3.md)
+  * [我的猫不吃生骨肉！别急，我来教你](https://github.com/FantasticLBP/Ragdoll/blob/main/article/4.md)
+  * [猫粮对你猫咪的牙齿做了什么？](https://github.com/FantasticLBP/Ragdoll/blob/main/article/5.md)
+  * [新猫到家的注意事项](https://github.com/FantasticLBP/Ragdoll/blob/main/article/6.md)
+  * [猫咪健康](https://github.com/FantasticLBP/Ragdoll/blob/main/article/7.md)
